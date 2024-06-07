@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(50, 50, 50);
+}
+
+
+ul li a {
+    color: rgb(93, 179, 255);
+    font-size: x-large;
+
+}
+
+ul li {
+    margin-top: 1rem;
+}
